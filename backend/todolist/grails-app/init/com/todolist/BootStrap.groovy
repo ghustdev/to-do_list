@@ -1,4 +1,4 @@
-package todolist
+package com.todolist
 
 class BootStrap {
 
